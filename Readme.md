@@ -1,6 +1,6 @@
 ## Webpage Check
 
-- Trying to fidure out how the github's page feature work
+- Trying to figure out how the github's page feature work
 - Making a bullet list
 - Now lets try to insert an image
 
